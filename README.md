@@ -19,7 +19,7 @@ The CTMD contains a total of 10,294 entries, of which 6,310 are labeled as toxic
 
 ### 4. Model
 
-![image-20240828232323506](CTMD/fig/ToxMnet.png)
+![image-20240828232323506](CTMD/fig/ToxMNet.png)
 
 ![image-20240828232340136](CTMD/fig/EEA.png)
 
