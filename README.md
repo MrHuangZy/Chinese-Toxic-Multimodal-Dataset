@@ -28,7 +28,7 @@ The CTMD contains a total of 10,294 entries, of which 6,310 are labeled as toxic
 [Google Driver][https://drive.google.com/file/d/1exguHLUvNUhWTllalf2LN4PHdCCMNVMC/view?usp=drive_link]
 
 The data has been encrypted. If you are interested, please contact qzc@cqust.edu.cn. 
-***Warm reminder*
+**Warm reminder**
 Please note that the dataset may contain sensitive information; however, this content is not reflective of our personal views or intentions. The data is provided strictly for research purposes, and any sensitive content is included solely to facilitate accurate and comprehensive analysis in the context of toxic video detection.
 
 
